@@ -18,7 +18,7 @@ public class Developer {
     private final String[] skills = { "Problem Solving", "Clean Architecture" };
 
     public String getGoal() {
-        return "기본에 충실한, 꾸준히 성장하는 백엔드 개발자";
+        return "기본에 충실한, 꾸준히 성장하는 백엔드 개발자 준비생";
     }
 }
 ```
