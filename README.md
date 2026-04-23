@@ -42,23 +42,23 @@ public class Developer {
 **Backend**
 
 <div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </div>
 
 <br/>
 
-**Database &nbsp;·&nbsp; Tools & Infra**
+**Database**
 
 <div>
-  <img src="https://img.shields.io/badge/공부중-555555?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
 
 <br/>
 
 ---
-
-<br/>
-
 ## Stats
 
 <div align="center">
