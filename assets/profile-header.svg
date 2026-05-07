@@ -1,0 +1,55 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">권영현 Backend Developer Profile Header</title>
+  <desc id="desc">A calm dark terminal style profile header for a Java backend developer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#16213E"/>
+    </linearGradient>
+    <linearGradient id="line" x1="190" y1="61" x2="1010" y2="236" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4A90D9" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#6DB33F" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#4A90D9" stop-opacity="0.16"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" stroke="#253449" stroke-width="1" stroke-opacity="0.22"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+
+  <path d="M170 205 C290 120 353 221 460 145 C570 67 650 189 752 115 C854 41 934 126 1030 78" stroke="url(#line)" stroke-width="3"/>
+  <path d="M230 86 H367 C392 86 408 102 408 127 V214" stroke="#4A90D9" stroke-opacity="0.2" stroke-width="2"/>
+  <path d="M970 217 H810 C785 217 770 202 770 177 V83" stroke="#6DB33F" stroke-opacity="0.18" stroke-width="2"/>
+
+  <g filter="url(#softGlow)">
+    <circle cx="230" cy="86" r="5" fill="#4A90D9"/>
+    <circle cx="408" cy="214" r="5" fill="#6DB33F"/>
+    <circle cx="770" cy="83" r="5" fill="#6DB33F"/>
+    <circle cx="970" cy="217" r="5" fill="#4A90D9"/>
+  </g>
+
+  <rect x="255" y="58" width="690" height="184" rx="14" fill="#0D1117" fill-opacity="0.82" stroke="#263243"/>
+  <rect x="255" y="58" width="690" height="38" rx="14" fill="#111827"/>
+  <path d="M255 96 H945" stroke="#263243"/>
+  <circle cx="281" cy="77" r="6" fill="#EF4444"/>
+  <circle cx="303" cy="77" r="6" fill="#F59E0B"/>
+  <circle cx="325" cy="77" r="6" fill="#22C55E"/>
+
+  <text x="285" y="128" fill="#8B949E" font-family="JetBrains Mono, Consolas, monospace" font-size="18">$ java DeveloperProfile</text>
+  <text x="285" y="165" fill="#E6EDF3" font-family="Pretendard, Apple SD Gothic Neo, Segoe UI, sans-serif" font-size="34" font-weight="700">권영현</text>
+  <text x="425" y="165" fill="#4A90D9" font-family="JetBrains Mono, Consolas, monospace" font-size="18">Backend Developer in Progress</text>
+  <text x="285" y="205" fill="#C9D1D9" font-family="JetBrains Mono, Consolas, monospace" font-size="18">Java · Spring Boot · JPA · MySQL</text>
+
+  <rect x="744" y="186" width="136" height="30" rx="15" fill="#13233A" stroke="#27496D"/>
+  <text x="766" y="206" fill="#9CC9F5" font-family="JetBrains Mono, Consolas, monospace" font-size="13">steady growth</text>
+</svg>
