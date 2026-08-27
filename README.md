@@ -10,7 +10,7 @@
 public class Developer {
 
     private final String name  = "권영현";
-    private final String email = "rnjsdudgus0808@naver.com";
+    private final String email = "s45628439@gmail.com";
     private final String blog  = "https://velog.io/@dudgus0808/posts";
 
     private final String[] focus  = { "Backend Development", "Java Ecosystem" };
