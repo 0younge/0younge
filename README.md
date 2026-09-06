@@ -67,7 +67,7 @@
       <p>필요한 페이지만 대여하고, 독서 목적과 예산에 맞는 AI 추천 경로로 이어 읽을 수 있습니다.</p>
       <p><strong>Focus</strong><br />페이지 단위 권한·과금 정합성 · PortOne V2 결제 검증 · OpenAI 기반 추천</p>
       <p><code>Java 21</code> <code>Spring Boot 4.1</code> <code>MySQL</code></p>
-      <p align="right"><a href="https://github.com/Ilgeobolkka/Ilgeobolkka">Repository →</a></p>
+      <p align="right"><a href="https://github.com/0younge/Ilgeobolkka">Repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/0younge/coffee-order-system">☕ Coffee Order System</a></h3>
